@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "542325378330",
+    "firebase_url": "https://hydhou-f608c.firebaseio.com",
+    "project_id": "hydhou-f608c",
+    "storage_bucket": "hydhou-f608c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542325378330:android:8285e3f334fb7c8b",
+        "android_client_info": {
+          "package_name": "hyderabadhouse.hh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542325378330-on3j68ea8hqg8jlnhj3cmpgadjpgt4m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hyderabadhouse.hh",
+            "certificate_hash": "99aef9e0c02e023817c5db614267cecf8388de6a"
+          }
+        },
+        {
+          "client_id": "542325378330-hoaerlenecogqf515tf3l22lfjdvgghi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQAhYRmf6z7RA1L7XThfgdbErIgSAWZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542325378330-hoaerlenecogqf515tf3l22lfjdvgghi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542325378330:android:cdf46b57edf109cf",
+        "android_client_info": {
+          "package_name": "store.hh.hhstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542325378330-f33poort0erqprd01p9m65tenpg2b9ag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "store.hh.hhstore",
+            "certificate_hash": "99aef9e0c02e023817c5db614267cecf8388de6a"
+          }
+        },
+        {
+          "client_id": "542325378330-hoaerlenecogqf515tf3l22lfjdvgghi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQAhYRmf6z7RA1L7XThfgdbErIgSAWZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542325378330-hoaerlenecogqf515tf3l22lfjdvgghi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
