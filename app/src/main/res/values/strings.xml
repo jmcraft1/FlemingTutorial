@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Number\nTheory</string>
+    <string name="edit_button1">GCD/LCM</string>
+    <string name="edit_button2">Primes</string>
+    <string name="edit_text1">Enter an integer</string>
+    <string name="edit_button3">GCD</string>
+    <string name="edit_button4">LCM</string>
+    <string name="edit_button5">Enter new numbers</string>
+    <string name="edit_button6">Home</string>
+    <string name="edit_button7">Submit</string>
+    <string name="edit_button8">Diophantine</string>
+    <string name="edit_button9">Back</string>
+    <string name="edit_button10">Enter new number</string>
+    <string name="edit_button11">Euler\'s Phi</string>
+    <string name="edit_button12">τ, σ, μ</string>
+</resources>
